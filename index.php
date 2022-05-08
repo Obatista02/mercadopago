@@ -1,5 +1,5 @@
 <?php
-$access_token =" APP_USR-1934331445194899-050623-8c69c22c186e1750c2820f9668c7380d-440698247";
+$access_token ="";
 
 require_once 'vendor/autoload.php';
 
